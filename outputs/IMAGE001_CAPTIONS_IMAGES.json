@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "380e5b68-f5cd-4bd1-b437-ec7a57918616",
+    "content-length": "164",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a group of people posing for a selfie",
+      "confidence": 0.8720333576202393
+    },
+    "metadata": {
+      "width": 845,
+      "height": 565
+    }
+  }
